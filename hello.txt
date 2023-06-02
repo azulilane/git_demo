@@ -10,4 +10,4 @@ Source .sh
 Source .sh
 Source .sh
 Source .sh
-Source .sh
+Source .sh masterupdate
