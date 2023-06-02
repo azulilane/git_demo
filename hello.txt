@@ -9,5 +9,5 @@ Source .sh
 Source .sh
 Source .sh
 Source .sh
-Source .sh
 Source .sh masterupdate
+Source .sh testupdate
